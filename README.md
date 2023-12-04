@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyberRMK
 - 👀 I’m interested in ...web development and cybersecurity 
-- 🌱 I’m currently learning ...css
-- 💞️ I’m looking to collaborate on ...no idea
+- 🌱 I’m currently building projects
+- 💞️ I’m looking for a mentor to guide me
 - 📫 How to reach me ...prasannaswarnam@gmail.com 
 
 <!---
